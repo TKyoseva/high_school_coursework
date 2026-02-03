@@ -11,11 +11,11 @@ int obikolkaPravoagalnik(int a, int b) {
 }
 
 int liceKrag(int r) {
-    return 3.14 * r * r;   // using 3.14 but function returns int
+    return 3.14 * r * r;  
 }
 
 int obikolkaKrag(int r) {
-    return 2 * 3.14 * r;   // using 3.14 but function returns int
+    return 2 * 3.14 * r;   
 }
 
 int obikolkaTriagalnik(int a, int b, int c) {
